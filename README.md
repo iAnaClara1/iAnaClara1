@@ -25,6 +25,12 @@
 
 </div>
 
+<div align="left"> 
+<h2>Redes Sociais: </h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-berlingieri-8556902a0/)
+
+</div>
 
 <div align="left"> 
 <h2>Habilidades principais: </h2>
@@ -71,21 +77,10 @@
 
 <br>
 <br>
-
-<div align="center">
-  
 <br>
 <br>
 <br>
 <br>
-
-<p align="centre"><b>Contagem de Visitantes</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FiAnaClara1&s=40&c=f73d9f&bg=00000000&no=3&ff=digi&tb=Visitantes%3A+&ta="" /></p> 
-<br>
-</div>
-
-
 
 
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/f82b05a4-efd4-41e8-904d-65a567b30316"/>
